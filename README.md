@@ -1,5 +1,5 @@
-# Login-System
-Simple Login system with encryption
+# Python Login System
+> Simple Login system with encryption
 
 - Login  
   - Simple login with hidden passphrase.  
